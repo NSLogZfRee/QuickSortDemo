@@ -1,3 +1,1 @@
 # QuickSortDemo
-# QuickSort
-# QuickSort
